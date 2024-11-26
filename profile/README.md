@@ -22,7 +22,7 @@
   | 팀원 | 역할 | 맡은 일 |
   | :------------: | :------------: | :------------: |
   | <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDZ-A0QYVwqjC7qUKbvQjYc793lMupzDDsNQ&s' height=100 width=100px></img><br><b>박창민<b> | 팀장, 기획 |  |
-  | <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDZ-A0QYVwqjC7qUKbvQjYc793lMupzDDsNQ&s' height=100 width=100px></img><br><b>주윤정<b> | 부팀장, 디자인 |  |
+  | <img src='https://media.istockphoto.com/id/158894647/photo/funny-dachshund.jpg?s=612x612&w=0&k=20&c=qsI_AfDe6Ecw-5aYt5DwNQye0QHDhzQ-DE78jodyUYc=' height=100 width=100px></img><br><b>주윤정<b> | 부팀장, 디자인 |  |
   | <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDZ-A0QYVwqjC7qUKbvQjYc793lMupzDDsNQ&s' height=100 width=100px></img><br><b>서장호<b> | 디자인 |  |
   | <img src='https://avatars.githubusercontent.com/u/102334596?v=4' height=100 width=100px></img><br><b>[변성훈](https://github.com/DNA-B)<b> | 백엔드 팀장 |  |
   | <img src='https://avatars.githubusercontent.com/u/127603139?v=4' height=100 width=100px></img><br><b>[현준혁](https://github.com/HYH0804)<b> | 백엔드 |  |
